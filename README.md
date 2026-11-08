@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Laura! 😯
+
+I'm a year 10 student in London, and I'm hoping to study CS at Imperial College London in the future!
+
+I'm currently working through CS50x, practicing for the BIO, and building personal projects in JavaScript and Python.
+
+### Some of my interests...
+- AI and ML
+- JavaScript web dev
+- competitive programming & simulations
 
 <!--
 **pinterai/pinterai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
